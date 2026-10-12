@@ -12,5 +12,8 @@ int main(){
      
     printf("This is the new feature from SJE");
 
-
+    printf("utfuygfreuyfghuer");
+    print("gfewiufeuifreiufreuygfreuygfrebuy");
+    
+    hello
 }
